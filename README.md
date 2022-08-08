@@ -16,3 +16,5 @@
   <li>I also have deep knowledge in <strong>WordPress</strong> and <strong>Php</strong>.</li>
 </ul>
 
+<br />
+<h2>My Skills</h2>
