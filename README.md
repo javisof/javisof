@@ -18,3 +18,10 @@
 
 <br />
 <h2>My Skills</h2>
+<p align="left" dir="auto">
+<img src="images/html5.svg" width="36" height="36" />
+<img src="images/javascript.svg" width="36" height="36" />
+<img src="images/css3.svg" width="36" height="36" />
+<img src="images/seo.jpg" width="193" height="67" />
+<img src="images/photoshop.svg" width="36" height="36" />
+</p>
