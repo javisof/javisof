@@ -25,6 +25,6 @@
 <img src="images/javascript.svg" width="36" height="36" />
 <img src="images/W3C.webp" width="56" height="36" />
 <img src="images/css3.svg" width="36" height="36" />
-<img src="images/photoshop.svg" width="36" height="36" />
 <img src="images/seo.svg" width="56" height="36" />
+<img src="images/photoshop.svg" width="36" height="36" />
 </p>
