@@ -5,7 +5,7 @@
 <br/>
 <ul>
   <li>Remote work from Valencia, Spain.</li>
-  <li>My <strong>SEO Freelance</strong> website is <a href="https://www.javitorres.com">javitorres.com</a></li>
+  <li>My <strong>SEO Freelance</strong> website is <a href="https://www.javitorres.com">javitorres.com</a> and <a href="https://www.codetodevs.com">CodeToDevs.com</a></li>
   <li>
     <ul>
       <li>On this website you can see some of my skills as SEO, although I have some more... :v:</li>
